@@ -12,13 +12,13 @@ Socket_Communicate_Between_Node_Python_JavaScript
 7-  pip install "python-socketio[client]" \
 8-  pip install requests \
 ------------ run Server node ----------------------- \
-9-  run new cmd --> in 'c:\socket' directory \
+9-  run new cmd --> in 'socket' directory \
 10- node server.js \
 ------------ run Client node ----------------------- \
-11-  run new cmd --> in 'c:\socket' directory \
+11-  run new cmd --> in 'socket' directory \
 12-  node client.js \
 ------------ run Client python3 -------------------- \
-11-  run new cmd --> in 'c:\socket' directory \
+11-  run new cmd --> in 'socket' directory \
 12-  python client2.py \
 ------------ run Chrome ---------------------------- \
 13-  open chrome browser \
