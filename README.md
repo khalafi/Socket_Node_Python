@@ -23,9 +23,8 @@ Socket_Communicate_Between_Node_Python_JavaScript
 ------------ run Chrome ---------------------------- \
 13-  open chrome browser \
 14-  http://localhost:5555 \
-
 ------------ links ---------------------------- \
-https://www.npmjs.com/package/socket.io
+https://www.npmjs.com/package/socket.io \
 https://python-socketio.readthedocs.io/en/latest/client.html
 
 
