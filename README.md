@@ -2,7 +2,7 @@
 Socket_Communicate_Between_Node_Python_JavaScript
 
 1-  clone 'https://github.com/MahdadGhasemian/Socket_Node_Python.git' \
-2-  cd 'socket' \
+2-  cd 'Socket_Node_Python-master' \
 ------------ NodeJs -------------------------------- \
 3-  npm init \
 4-  npm install \
